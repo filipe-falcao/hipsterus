@@ -1,0 +1,17 @@
+{
+  "name": "modernwebdevelopment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filipe Falcao",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "3",
+    "webpack-dev-server": "2.11.1"
+  }
+}
